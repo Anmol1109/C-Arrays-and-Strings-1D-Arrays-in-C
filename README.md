@@ -1,2 +1,2 @@
 # C-Arrays-and-Strings-1D-Arrays-in-C
-Solution of hackerrank of C programing
+- It consists of solution of hackerrank of C programming of Arrays and Strings module called as 1D Arrays in C.
